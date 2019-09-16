@@ -11,6 +11,7 @@ DBConnect.java
 
 download
 JDBC Driver for MySQL (Connector/J)    // platform independent
+https://www.mysql.com/products/connector/
 https://dev.mysql.com/downloads/connector/j/
 extract
 
